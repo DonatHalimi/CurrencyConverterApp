@@ -1,10 +1,10 @@
-![Logo](image.png)
+![Icon](https://github.com/DonatHalimi/CurrencyConverterApp/assets/118883706/6ad5fc8a-f15a-499e-9dbb-bf89779acdf6)
 
 # Currency Converter App
 
 ## Live Demo
 
-Explore the Currency Converter App live on [Vercel]().
+Explore the Currency Converter App live on [Vercel](https://currency-converter-app-nu-tan.vercel.app).
 
 ## Overview
 
